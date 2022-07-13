@@ -1,0 +1,18 @@
+.home-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.car-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 40px;
+    grid-column-gap: 10px;
+    margin-left: 70px;
+    margin-top: 80px;
+
+}
+
+.cart-container {
+    margin-top: 60px;
+}

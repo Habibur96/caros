@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Duronto",
+        "price": 200,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBFnj2TzxvzhMUnyvvdT9YKj3Z_1hNjCEACA&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Duronto",
+        "price": 250,
+        "img": "https://i0.wp.com/gomechanic.in/blog/wp-content/uploads/2022/01/safari-dark.jpg?resize=700%2C464&ssl=1"
+    },
+    {
+        "id": 3,
+        "name": "Duronto",
+        "price": 300,
+        "img": "https://images.livemint.com/img/2022/02/25/600x338/xuv700-exterior-right-front-three-quarter_1645780398745_1645780422616.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Duronto",
+        "price": 350,
+        "img": "https://img.etimg.com/thumb/msid-62517635,width-640,resizemode-4,imgsize-103908/turkmenistan-black-cars.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Duronto",
+        "price": 310,
+        "img": "https://cdn.inventoryrsc.com/StockImg/Expanded/2022TOC20_640/2022TOC200071_640_01.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Duronto",
+        "price": 420,
+        "img": "https://electrek.co/wp-content/uploads/sites/3/2016/04/model-s-res1-e1460483633210.png"
+    },
+    {
+        "id": 7,
+        "name": "Duronto",
+        "price": 470,
+        "img": "https://d2q97jj8nilsnk.cloudfront.net/images/IMG_9006_934x7002-798x466.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Duronto",
+        "price": 450,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Tesla_Roadster_AMI.JPG"
+    }
+]

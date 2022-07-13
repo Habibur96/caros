@@ -1,0 +1,15 @@
+.car {
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: 400px;
+    width: 300px;
+
+}
+
+
+
+.car img {
+    height: 200px;
+    width: 300px;
+
+}
