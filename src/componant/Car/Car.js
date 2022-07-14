@@ -9,9 +9,10 @@ const Car = ({ car }) => {
             <img src={img} alt="" />
             <h3>Name: {name}</h3>
             <h3>Price: {price}</h3>
-            <Link to='/car/'>Click Here</Link>
+            <Link to={`/car/${img}`}>Click Here</Link>
         </div>
     );
 };
 
 export default Car;
+

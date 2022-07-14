@@ -6,6 +6,7 @@ import Home from './componant/Home/Home';
 import Product from './componant/Product/Product';
 import Contact from './componant/Contact/Contact';
 import NotFound from './componant/NotFound/NotFound';
+import CarDetail from './componant/CarDetail/CarDetail';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path='/' element={<Home></Home>}></Route>
         <Route path='/product' element={<Product></Product>}></Route>
         <Route path='/contact' element={<Contact></Contact>}></Route>
+        <Route path='/car/:img' element={<CarDetail></CarDetail>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
 
